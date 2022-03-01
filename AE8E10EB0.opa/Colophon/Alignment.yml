@@ -1,0 +1,16 @@
+segment_sources:
+  PE72E5545:
+    type: origin_type
+    relation: translation
+    language: bo
+  PA623300B:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  79064a78487b46b99681e5295c4847b4:
+    PE72E5545: 22414e7fac7741799d3e2ec2be31e707
+    PA623300B: 7d7e63fdf6a74add80a3e7e06f2e98af
+  8125adcfe6944244871cf7ecd9b039bb:
+    PE72E5545: 7ace6958fc884f31bac76e56fac38e2d
+    PA623300B: 6fa2f065e7964add9fee28a81a359aa4
